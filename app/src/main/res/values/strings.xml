@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndB_Project_SingleScreen</string>
+    <string name="shopname">Coffeebot 3000\'s Coffee Shop</string>
+    <string name="address1">101 Robot Avenue</string>
+    <string name="address2">New York, NY 10001</string>
+    <string name="phone">212-123-4567</string>
+    <string name="description">\"For the finest cup of sludge this side of New New York.\"</string>
+</resources>
